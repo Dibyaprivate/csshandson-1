@@ -1,0 +1,53 @@
+
+h2{
+    color: red;
+}
+ol{
+    color: red;
+}
+li{
+    color: darkred;
+    font-size: medium;
+}
+span{
+    font-weight: darkbold;
+    font-weight: 900;
+    
+}
+#pan{
+    text-decoration: line-through;
+}
+
+.banty{
+    background-color: yellow;
+}
+.ex{
+    text-decoration: underline;
+    font-style: italic;
+}
+h3{
+    color: red;
+    font-style: italic;
+}
+ul li{
+    color: darkred;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+
+ul span{
+    background-color: yellow;
+}
+
+
+p{
+    color: darkred;
+    font-size: medium;
+}
+a{
+    color: darkred;
+    text-decoration: none;
+    background-color: yellow;
+    font-style: oblique;
+}
